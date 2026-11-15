@@ -100,3 +100,14 @@ Displays additional store performance metrics through report tooltips.
 
 ## Conclusion
 This project demonstrates practical skills in data cleaning, data modelling, DAX calculations, interactive dashboard development, and business insight generation using Power BI.
+
+## Dashboard Screenshots
+
+### Dashboard Preview 1
+![Dashboard Screenshot 1](Screenshot%202026-11-15%20205718.png)
+
+### Dashboard Preview 2
+![Dashboard Screenshot 2](Screenshot%202026-11-15%20205732.png)
+
+### Dashboard Preview 3
+![Dashboard Screenshot 3](Screenshot%202026-11-15%20205743.png)
